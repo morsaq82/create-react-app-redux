@@ -13,8 +13,8 @@
   "devDependencies": {
     "prettier": "1.18.2",
     "react-scripts": "2.1.8",
-    "story-tab": "^1.0.20",
-    "story-tab-react": "^1.0.9"
+    "react-doc-tab": "^1.0.22",
+    "react-doc-tab-template": "^1.0.12"
   },
   "dependencies": {
     "axios": "^0.18.0",
